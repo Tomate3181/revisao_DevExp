@@ -66,7 +66,7 @@ p {
     padding: 12px 15px;
     border: 1px solid #555;
     border-radius: 6px;
-    background-color: #1a1a1a;
+    background-color: #ffffff;
     color: #f0f0f0;
     font-size: 1.1em;
     transition: border-color 0.3s ease, box-shadow 0.3s ease;
@@ -81,7 +81,7 @@ p {
 }
 
 .btn-submit {
-    background-color: #ff000096; /* Vermelho/rosa meio neon, estilo Sally Face */
+    background-color: #ff000096; 
     color: white;
     padding: 15px 25px;
     border: none;
